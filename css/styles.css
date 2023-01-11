@@ -1,0 +1,45 @@
+body{
+    background-color: #F6F5F5;
+    color: #00334E;
+}
+hr {
+    /*background-color: #145374;*/
+    border-style: dotted none none none;
+    border-width: 5px;
+    border-color: #EE6F57;
+    height: 10px;
+    width: 50px;
+}
+h1{
+    color: #145374;
+}
+
+h3{
+    color: #145374;
+
+}
+/*
+        Paleta Atual: 02;
+
+        Paleta 01: https://colorhunt.co/palette/2228322f3847e7a117c57f1e
+        #222832
+        #2F3847
+        #E7A117
+        #C57F1E
+    
+        Paleta 02: https://colorhunt.co/palette/f6f5f514537400334eee6f57
+        #F6F5F5
+        #145374
+        #00334E
+        #EE6F57
+
+        Paleta 03: https://colorhunt.co/palette/3e333ffc4442f0e19ef2f2f2
+        #3E333F
+        #FC4442
+        #F0E19E
+        #F2F2F2
+
+    
+    */
+
+
